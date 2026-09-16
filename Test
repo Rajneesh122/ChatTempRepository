@@ -1,0 +1,33 @@
+
+view -> viewModel -> Repository -> Server
+
+
+@Entity
+data class UserEntity(
+@PrimaryKey val userId: String,
+val lastSeen: Long,
+val profileName: String
+val serverName: String
+)
+
+
+//caht
+data class ChatEntity(
+chatId
+OtherUserId
+lastMessage
+lastMessageTimestamp
+unReadCount
+)
+
+data class MessageEntity(
+syncStatus
+isRead
+status
+timeStamp
+messageId
+chatId
+senderId
+text
+)
+

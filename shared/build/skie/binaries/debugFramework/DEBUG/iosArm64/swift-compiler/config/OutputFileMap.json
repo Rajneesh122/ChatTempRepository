@@ -1,0 +1,312 @@
+{
+"": {
+    "emit-module-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/module/Shared.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/module/Shared.swiftdeps"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SwiftCoroutineDispatcher.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.AsyncStreamDispatcherDelegate.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.Namespace.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Namespace.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Namespace.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Namespace.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Namespace~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftFlowIterator.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftFlowProtocol.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftOptionalFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftSharedFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftOptionalSharedFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftMutableSharedFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableSharedFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftStateFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftOptionalStateFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftMutableStateFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableStateFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.bridgeSubscriptionCount.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SwiftUI.View+collect.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftUI.View+collect.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftUI.View+collect.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftUI.View+collect.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SwiftUI.View+collect~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftFlowWithInitialValue.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowWithInitialValue.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowWithInitialValue.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowWithInitialValue.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowWithInitialValue~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieSwiftFlowObserver.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowObserver.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowObserver.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowObserver.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieSwiftFlowObserver~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.ObserveSkieSwiftFlows.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.ObserveSkieSwiftFlows.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.ObserveSkieSwiftFlows.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.ObserveSkieSwiftFlows.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.ObserveSkieSwiftFlows~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.Observing.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.Observing+Flow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+Flow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+Flow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+Flow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+Flow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.Observing+StateFlow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+StateFlow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+StateFlow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+StateFlow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Observing+StateFlow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.assertingSkieSwiftFlowValueUnwrap.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.assertingSkieSwiftFlowValueUnwrap.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.assertingSkieSwiftFlowValueUnwrap.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.assertingSkieSwiftFlowValueUnwrap.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.assertingSkieSwiftFlowValueUnwrap~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.skieFlowDoesNotThrow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.skieFlowDoesNotThrow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.skieFlowDoesNotThrow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.skieFlowDoesNotThrow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.skieFlowDoesNotThrow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.SkieColdFlowIterator.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.Flow.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.FlowCollector.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.EditorViewModel.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.EditorViewModel.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.EditorViewModel.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.EditorViewModel.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.EditorViewModel~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ProjectRepository.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ProjectRepository.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ProjectRepository.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ProjectRepository.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ProjectRepository~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.FlowConversions.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.FlowConversions.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.FlowConversions.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.FlowConversions.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.FlowConversions~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.BlendMode.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.BlendMode.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.BlendMode.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.BlendMode.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.BlendMode~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.LayerFilterType.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.LayerFilterType.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.LayerFilterType.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.LayerFilterType.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.LayerFilterType~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.SymmetryMode.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.SymmetryMode.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.SymmetryMode.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.SymmetryMode.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.SymmetryMode~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.DrawingTool.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.DrawingTool.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.DrawingTool.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.DrawingTool.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.DrawingTool~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.HarmonyType.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.HarmonyType.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.HarmonyType.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.HarmonyType.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.HarmonyType~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ExportFormat.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ExportFormat.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ExportFormat.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ExportFormat.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ExportFormat~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Skie/Skie.Skie_SuspendResult.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Skie.Skie_SuspendResult~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.SerialKind.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.SerializersModule.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.PolymorphicKind.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.PrimitiveKind.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.StructureKind.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.TextLayerRendererKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.TextLayerRendererKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.TextLayerRendererKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.TextLayerRendererKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.TextLayerRendererKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ColorFormatKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorFormatKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorFormatKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorFormatKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorFormatKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.Lz4CodecKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.Lz4CodecKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.Lz4CodecKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.Lz4CodecKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.Lz4CodecKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ColorPlatform_iosKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorPlatform_iosKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorPlatform_iosKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorPlatform_iosKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ColorPlatform_iosKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ImageBitmap_iosKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ImageBitmap_iosKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ImageBitmap_iosKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ImageBitmap_iosKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ImageBitmap_iosKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.PlatformContext_iosKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.PlatformContext_iosKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.PlatformContext_iosKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.PlatformContext_iosKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.PlatformContext_iosKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/LearningProject01__shared/LearningProject01__shared.ModelsKt.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ModelsKt.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ModelsKt.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ModelsKt.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/LearningProject01__shared.ModelsKt~partial.swiftmodule"
+},
+"/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift/generated/Foundation/Foundation.NSString.swift": {
+    "object": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Foundation.NSString.o",
+    "dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Foundation.NSString.d",
+    "swift-dependencies": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Foundation.NSString.swiftdeps",
+    "swiftmodule": "/Users/rajneeshvinayak/Documents/LearningProject01/shared/build/skie/binaries/debugFramework/DEBUG/iosArm64/swift-compiler/object-files/Foundation.NSString~partial.swiftmodule"
+}
+}

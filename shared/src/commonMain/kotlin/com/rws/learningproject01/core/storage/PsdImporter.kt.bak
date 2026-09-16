@@ -1,0 +1,165 @@
+package com.rws.learningproject01.core.storage
+
+import android.graphics.Bitmap
+import com.rws.learningproject01.core.model.CanvasSpec
+import java.io.InputStream
+import java.nio.ByteBuffer
+import java.nio.ByteOrder
+
+/**
+ * Minimal PSD reader: composite image + optional layer names from layer records.
+ */
+object PsdImporter {
+
+    data class PsdImportResult(
+        val title: String,
+        val canvas: CanvasSpec,
+        val layers: List<PsdLayer>,
+    )
+
+    data class PsdLayer(
+        val name: String,
+        val pixels: ByteArray,
+        val width: Int,
+        val height: Int,
+        val offsetX: Int,
+        val offsetY: Int,
+    )
+
+    fun import(input: InputStream, fileName: String): PsdImportResult {
+        val bytes = input.readBytes()
+        val buffer = ByteBuffer.wrap(bytes).order(ByteOrder.BIG_ENDIAN)
+        val signature = readAscii(buffer, 4)
+        require(signature == "8BPS") { "Not a valid PSD file" }
+        buffer.short // version
+        buffer.position(buffer.position() + 6)
+        buffer.short // channels
+        val height = buffer.int
+        val width = buffer.int
+        buffer.short // depth
+        buffer.short // color mode
+        val colorModeLen = buffer.int
+        buffer.position(buffer.position() + colorModeLen)
+        val resourceLen = buffer.int
+        val resourceEnd = buffer.position() + resourceLen
+        val layerNames = mutableListOf<String>()
+        if (resourceLen > 0) {
+            parseLayerNames(buffer, resourceEnd, layerNames)
+        }
+        buffer.position(resourceEnd)
+        val layerMaskLen = buffer.int
+        buffer.position(buffer.position() + layerMaskLen)
+        val compression = buffer.short.toInt() and 0xFFFF
+        val composite = when (compression) {
+            0 -> readRawRgba(buffer, width, height)
+            1 -> readRleRgba(buffer, width, height)
+            else -> ByteArray(width * height * 4)
+        }
+        val title = fileName.substringBeforeLast('.').ifBlank { "Imported" }
+        val layers = if (layerNames.isEmpty()) {
+            listOf(PsdLayer("Background", composite, width, height, 0, 0))
+        } else {
+            layerNames.mapIndexed { index, name ->
+                PsdLayer(name, composite.copyOf(), width, height, 0, 0)
+            }
+        }
+        return PsdImportResult(title, CanvasSpec(width = width, height = height), layers)
+    }
+
+    private fun parseLayerNames(buffer: ByteBuffer, resourceEnd: Int, names: MutableList<String>) {
+        while (buffer.position() < resourceEnd - 12) {
+            val blockId = buffer.short.toInt() and 0xFFFF
+            val blockName = readPascalString(buffer)
+            val blockSize = buffer.int
+            val blockStart = buffer.position()
+            if (blockId == 0x0C4C && blockSize > 0) {
+                val layerInfoLen = buffer.int
+                if (layerInfoLen > 0) {
+                    val layerCount = kotlin.math.abs(buffer.short.toInt())
+                    repeat(layerCount.coerceAtMost(64)) {
+                        buffer.position(buffer.position() + 16) // bounds
+                        buffer.position(buffer.position() + 2) // channels
+                        val extraLen = buffer.int
+                        buffer.position(buffer.position() + extraLen)
+                        val nameLen = buffer.get().toInt() and 0xFF
+                        val nameBytes = ByteArray(nameLen.coerceAtMost(255))
+                        buffer.get(nameBytes)
+                        names.add(String(nameBytes, Charsets.US_ASCII).trim())
+                        buffer.position(buffer.position() + (255 - nameLen))
+                    }
+                }
+            }
+            buffer.position((blockStart + blockSize).coerceAtMost(resourceEnd))
+        }
+    }
+
+    private fun readRawRgba(buffer: ByteBuffer, width: Int, height: Int): ByteArray {
+        val channels = 4
+        val planeSize = width * height
+        val planes = Array(channels) { ByteArray(planeSize) }
+        repeat(channels) { channel ->
+            buffer.get(planes[channel])
+        }
+        return planesToRgba(planes, width, height)
+    }
+
+    private fun readRleRgba(buffer: ByteBuffer, width: Int, height: Int): ByteArray {
+        val channels = 4
+        val planeSize = width * height
+        val planes = Array(channels) { ByteArray(planeSize) }
+        repeat(channels) { channel ->
+            val rowLengths = IntArray(height) { buffer.short.toInt() and 0xFFFF }
+            var offset = 0
+            repeat(height) { row ->
+                val rowEnd = offset + width
+                var i = offset
+                while (i < rowEnd && buffer.hasRemaining()) {
+                    val header = buffer.get().toInt()
+                    if (header < 128) {
+                        val count = header + 1
+                        repeat(count) {
+                            if (i < rowEnd) planes[channel][i++] = buffer.get()
+                        }
+                    } else {
+                        val value = buffer.get()
+                        val count = 257 - header
+                        repeat(count) {
+                            if (i < rowEnd) planes[channel][i++] = value
+                        }
+                    }
+                }
+                offset += width
+            }
+        }
+        return planesToRgba(planes, width, height)
+    }
+
+    private fun planesToRgba(planes: Array<ByteArray>, width: Int, height: Int): ByteArray {
+        val rgba = ByteArray(width * height * 4)
+        val planeSize = width * height
+        for (i in 0 until planeSize) {
+            rgba[i * 4] = planes[1][i]
+            rgba[i * 4 + 1] = planes[2][i]
+            rgba[i * 4 + 2] = planes[3][i]
+            rgba[i * 4 + 3] = planes[0][i]
+        }
+        return rgba
+    }
+
+    private fun readAscii(buffer: ByteBuffer, length: Int): String {
+        val bytes = ByteArray(length)
+        buffer.get(bytes)
+        return String(bytes, Charsets.US_ASCII)
+    }
+
+    private fun readPascalString(buffer: ByteBuffer): String {
+        if (buffer.remaining() < 1) return ""
+        val len = buffer.get().toInt() and 0xFF
+        if (len == 0 || buffer.remaining() < len) return ""
+        val bytes = ByteArray(len)
+        buffer.get(bytes)
+        val padding = (len + 1) % 2
+        if (padding != 0 && buffer.hasRemaining()) buffer.get()
+        return String(bytes, Charsets.US_ASCII)
+    }
+}

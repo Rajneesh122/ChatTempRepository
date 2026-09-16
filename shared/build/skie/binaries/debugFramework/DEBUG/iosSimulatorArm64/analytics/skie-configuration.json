@@ -1,0 +1,29 @@
+{
+    "groups": [
+        {
+            "target": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "overridesAnnotations": false,
+            "items": {
+                "SwiftCompilerConfigurationKeys.FreeCompilerArgs": ""
+            }
+        }
+    ],
+    "enabledConfigurationFlags": [
+        "Analytics_GradlePerformance",
+        "Analytics_GradleEnvironment",
+        "Analytics_CompilerEnvironment",
+        "Analytics_Hardware",
+        "Analytics_SkiePerformance",
+        "Analytics_SkieConfiguration",
+        "Analytics_CompilerConfiguration",
+        "Analytics_Git",
+        "Analytics_Project",
+        "Analytics_Modules",
+        "Build_ParallelSwiftCompilation",
+        "Build_ConcurrentSkieCompilation",
+        "Build_ParallelSkieCompilation",
+        "Debug_VerifyDescriptorProviderConsistency",
+        "Feature_CoroutinesInterop",
+        "Feature_SwiftUIObserving"
+    ]
+}

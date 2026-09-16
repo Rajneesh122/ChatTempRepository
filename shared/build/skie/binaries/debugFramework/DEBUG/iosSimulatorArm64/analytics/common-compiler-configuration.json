@@ -1,0 +1,21 @@
+{
+    "kotlinLanguageVersion": "2.0",
+    "kotlinApiVersion": "2.0",
+    "languageVersionString": "Language = 2.0, API = 2.0 +MultiPlatformProjects allowFullyQualifiedNameInKClass:true allowKotlinPackage:false dontWarnOnErrorSuppression:false explicitApiMode:DISABLED explicitApiVersion:false explicitReturnTypes:DISABLED extendedCompilerChecks:false multiPlatformDoNotCheckActual:false muteExpectActualClassesWarning:false optIn:[kotlin.ExperimentalUnsignedTypes] skipExpectedActualDeclarationChecker:false skipMetadataVersionCheck:false skipPrereleaseCheck:false stdlibCompilation:false",
+    "host": "macos_arm64",
+    "target": "ios_simulator_arm64",
+    "overriddenProperties": {
+        "osVersionMinSinceXcode15.ios_simulator_arm64": "13.0"
+    },
+    "isDebugBuild": true,
+    "linkerArgs": [
+    ],
+    "overrideClangOptions": [
+    ],
+    "staticFramework": true,
+    "objcGenerics": true,
+    "memoryModel": null,
+    "allocationMode": null,
+    "unitSuspendFunctionObjCExport": null,
+    "objcExportSuspendFunctionLaunchThreadRestriction": null
+}
